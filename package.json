@@ -1,0 +1,15 @@
+{
+  "name": "lingohub",
+  "version": "1.0.0",
+  "description": "Lingohub NodeJS client",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Antony Jones",
+  "license": "MIT",
+  "dependencies": {
+    "got": "^7.1.0",
+    "joi": "^13.0.1"
+  }
+}
