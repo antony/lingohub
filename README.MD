@@ -80,6 +80,18 @@ Where `project-id` is the id of the project you want to get information for.
 
 Where `project-id` is the id of the project you want to get information for, and `filename` is the name of the file to download.
 
+### Developing
+
+The project is laid out according to basic node conventions.
+
+You can run the tests by doing:
+
+```bash
+npm test
+```
+
+Feel free to submit a PR, but please ensure any functionality comes with passing unit tests.
+
 ### Maintainers
 
 * Antony Jones (https://github.com/antony)
