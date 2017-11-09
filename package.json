@@ -1,6 +1,6 @@
 {
   "name": "lingohub",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Lingohub NodeJS client",
   "main": "index.js",
   "scripts": {
@@ -12,9 +12,9 @@
     "got": "^7.1.0",
     "joi": "^13.0.1"
   },
-  "repository" : {
-    "type" : "git",
-    "url" : "https://github.com/antony/lingohub"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/antony/lingohub"
   },
   "devDependencies": {
     "code": "^5.1.2",
