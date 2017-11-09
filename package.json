@@ -12,6 +12,10 @@
     "got": "^7.1.0",
     "joi": "^13.0.1"
   },
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/antony/lingohub"
+  },
   "devDependencies": {
     "code": "^5.1.2",
     "lodash": "^4.17.4",

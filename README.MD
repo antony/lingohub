@@ -95,8 +95,7 @@ Feel free to submit a PR, but please ensure any functionality comes with passing
 ### Maintainers
 
 * Antony Jones (https://github.com/antony)
-* Vendigo (https://github.com/vendigo-group)
 
 ## License
 
-MIT License. Copyright 2017 Vendigo Regional Finance Ltd. https://www.vendigo.com
+MIT License. Copyright 2017 Antony Jones
