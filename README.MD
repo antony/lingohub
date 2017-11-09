@@ -1,5 +1,7 @@
 ## Node LingoHub Client
 
+[![Build Status](https://travis-ci.org/antony/lingohub.svg?branch=master)](https://travis-ci.org/antony/lingohub)
+
 Unofficial client library to translate apps with [LingoHub](https://lingohub.com/).
 
 This library implements most common API functionality.
